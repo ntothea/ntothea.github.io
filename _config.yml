@@ -4,7 +4,7 @@ author: "Shin Sang Ha"
 subtitle: The life of a frustrated engineer
 
 url: "https://rahulbothra.com"
-baseurl: "/"
+baseurl: /
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"

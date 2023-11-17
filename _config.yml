@@ -9,7 +9,7 @@ footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
 footer_text: "Theme by rhl-bthr"
 
-profile-picture: assets/profile.png
+profile-picture: file:///C:/Users/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC27/Desktop/Owen.webp
 favicon_location: assets/favicon.ico
 
 permalink: /:year-:month-:day-:title/

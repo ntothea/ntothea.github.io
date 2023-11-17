@@ -1,9 +1,10 @@
-title: Parchment
-author: pro-panda
+name: "Shin Sang Ha"
+title: SSH's homepage
+author: "Shin Sang Ha"
 subtitle: The life of a frustrated engineer
 
 url: "https://rahulbothra.com"
-baseurl: "/parchment"
+baseurl: /
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
